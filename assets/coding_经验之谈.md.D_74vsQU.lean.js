@@ -1,0 +1,1 @@
+import{_ as i,c as e,o,ag as t}from"./chunks/framework.BmLMQRXF.js";const u=JSON.parse('{"title":"经验之谈","description":"","frontmatter":{},"headers":[],"relativePath":"coding/经验之谈.md","filePath":"coding/经验之谈.md"}'),r={name:"coding/经验之谈.md"};function a(n,l,s,g,p,A){return o(),e("div",null,l[0]||(l[0]=[t("",13)]))}const _=i(r,[["render",a]]);export{u as __pageData,_ as default};

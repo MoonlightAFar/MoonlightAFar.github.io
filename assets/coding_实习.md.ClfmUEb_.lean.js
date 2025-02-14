@@ -1,0 +1,1 @@
+import{_ as a,c as o,o as r,ag as n}from"./chunks/framework.BmLMQRXF.js";const h=JSON.parse('{"title":"实习","description":"","frontmatter":{},"headers":[],"relativePath":"coding/实习.md","filePath":"coding/实习.md"}'),e={name:"coding/实习.md"};function s(i,t,p,g,l,d){return r(),o("div",null,t[0]||(t[0]=[n("",27)]))}const m=a(e,[["render",s]]);export{h as __pageData,m as default};

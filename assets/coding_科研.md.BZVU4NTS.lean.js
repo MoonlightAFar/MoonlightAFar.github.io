@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as l,ag as n}from"./chunks/framework.BmLMQRXF.js";const c=JSON.parse('{"title":"科研","description":"","frontmatter":{},"headers":[],"relativePath":"coding/科研.md","filePath":"coding/科研.md"}'),a={name:"coding/科研.md"};function s(i,r,e,g,h,u){return l(),o("div",null,r[0]||(r[0]=[n("",24)]))}const _=t(a,[["render",s]]);export{c as __pageData,_ as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as p,ag as r}from"./chunks/framework.BmLMQRXF.js";const h=JSON.parse('{"title":"杂谈","description":"","frontmatter":{},"headers":[],"relativePath":"others/其他.md","filePath":"others/其他.md"}'),o={name:"others/其他.md"};function s(n,a,_,i,c,d){return p(),t("div",null,a[0]||(a[0]=[r("",16)]))}const m=e(o,[["render",s]]);export{h as __pageData,m as default};
